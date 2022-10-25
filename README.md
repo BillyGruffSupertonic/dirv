@@ -17,3 +17,6 @@ A way to map a directory for plotly sankey-graph under the following conditions:
 
 # Large directory structure without labels
 ![image2](images/sankey-graph-5.png)
+
+# Files with labels without colors:
+![images3](images/sankey-graph-2.png)
