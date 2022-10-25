@@ -18,8 +18,6 @@ A way to map a directory for plotly sankey-graph under the following conditions:
 - directories connecting are nuetral color.
 - filetypes have filesize only and strands accumulate within plotly by default.
 
-- Directories connect to files each with filetypes.
--
 # Example
 ![image1](images/sankey-graph-3.png)
 
